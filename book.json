@@ -1,0 +1,9 @@
+{
+    "plugins": ["theme-default", "-lunr", "-search", "search-plus", "addcssjs"],
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme":  "night",
+            "family": "sans"
+        }
+    }
+}
